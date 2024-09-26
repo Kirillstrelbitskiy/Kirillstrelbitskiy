@@ -1,4 +1,1 @@
-- Hi, I’m Kirill Strelbitskiy.
-- I'm interested in competitive programming and developing projects.
-- I’m looking to collaborate with tech companies and start-ups.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/kirill-strelbitskiy/)
+
